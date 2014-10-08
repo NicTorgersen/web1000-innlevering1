@@ -1,0 +1,4 @@
+IS1;Informasjonssystemer 1. År
+IS2;Informasjonssystemer 2. År
+IS3;Informasjonssystemer 3. År
+IS4;Informasjonssystemer 4. År

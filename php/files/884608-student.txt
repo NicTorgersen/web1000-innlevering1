@@ -1,0 +1,4 @@
+nictor;Nichlas;Torgersen;IS1
+anisham;Anisha Mari;Balendran;IS2
+jonmar;Jonas;Mariussen;IS2
+jambon;James;Bond;IS4
